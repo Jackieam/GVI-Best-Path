@@ -6,9 +6,13 @@ The dataset is available at [Google Drive](https://drive.google.com/file/d/1HMxU
 The naming rules of the dataset is <pre><code>latitude,longitude_direction=degree.jpg</code></pre>
 
 If you find the dataset and paper useful, please cite the paper below:
-<pre><code>@article{zhang2021analyzing,
-  title={Analyzing Green View Index and Green View Index best path using Google Street View and deep learning},
+<pre><code>@article{zhang2022analyzing,
+  title={Analyzing green view index and green view index best path using Google street view and deep learning},
   author={Zhang, Jiahao and Hu, Anqi},
   journal={Journal of Computational Design and Engineering},
-  year={2021}
+  volume={9},
+  number={5},
+  pages={2010--2023},
+  year={2022},
+  publisher={Oxford University Press}
 }</code></pre>
